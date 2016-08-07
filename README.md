@@ -162,7 +162,7 @@ end
 
 这看起来像是 DSL，但这只是一个类 (Class) 定义，其中有三句类方法 (Class Method) 调用，方法调用接收 Symbol 以及 Hash 参数。没有什么特别的，但这很漂亮。这也很简单。只需几行声明，变赋予我们所大的能力与弹性。
 
-这几条语句部分的美丽，来自于履行先前的理念，像是约定优与配置。当我们使用 `belongs_to :account` 是，我们假设 `projects` 表又一个叫做 `account_id` 的外键存在。当我们把 `participants` 的关联类用 `class_name` 指定为 `Person` 时，我们只需要定义 `Person` 类就可以了。这条语句便可推导出外键以及其它需要的设定。
+这几条语句部分的美丽，来自于履行先前的理念，像是约定优与配置。当我们使用 `belongs_to :account` 是，我们假设 `projects` 表有一个叫做 `account_id` 的外键存在。当我们把 `participants` 的关联类用 `class_name` 指定为 `Person` 时，我们只需要定义 `Person` 类就可以了。这条语句便可推导出外键以及其它需要的设定。
 
 以下是取自数据 Migration 的另一个例子：
 
