@@ -2,7 +2,7 @@
 > 如你发现本文有错别字或翻译不准确的地方，请访问 [GitHub](https://github.com/ruby-china/the-rails-doctrine) 提交 Pull Request。
 > 下文将提到的我，表示 DHH 自己。
 
-<img src="https://ruby-china-files.b0.upaiyun.com/photo/2016/2d00a7557ff24ce3608af26cc02f2f29.png!large" class="pull-right" width="400" />
+<img src="https://l.ruby-china.com/photo/2016/2d00a7557ff24ce3608af26cc02f2f29.png!large" class="pull-right" width="400" />
 
 Ruby on Rails 惊人的活跃度主要是因为本身采用了新颖的技术和好的时机。但技术优势随着时间的推移而减弱；纵然有好的时机，时间久了影响也会逐渐减少。Rails 为何不仅能继续存在，还依然具有影响力并带领社区继续前进呢？需要更进一步地解释。我提议以下这篇内容，这是我们的基本信条，也是饱受争议的信条。
 
